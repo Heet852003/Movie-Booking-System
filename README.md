@@ -53,4 +53,4 @@ Instructions (Avoid any _Deceptive site ahead_ warnings):
 6. Next up fill in your Credit Card/Debit card details (Use _Generate Random_ button) {**Name is Must**}.
 7. Finally when you click pay now your ticket is booked and you'll see the thankyou page.
 
-_CineBook simplifies movie ticket booking with its modern technology stack and user-friendly interface. Enjoy the convenience of secure account management, seat selection, and online payments, all while ensuring the privacy of user data._
+
