@@ -1,5 +1,5 @@
 
-**"Blockbuster: A Feature-Rich Movie Booking Website Powered by Angular, React, Node, and MongoDB**
+**Blockbuster: A Feature-Rich Movie Booking Website Powered by Angular, React, Node, and MongoDB**
 Link: https://heet852003.github.io/Movie-Booking-System/
 
 
